@@ -1,10 +1,6 @@
 # image-classifier
 A Python Image Classifier
 
-<<insertHTML:[https://github.com/boraer17/image-classifier/blob/master/Image%20Classifier%20Project.html]
+<object data="https://github.com/boraer17/image-classifier/blob/master/Image%20Classifier%20Project.html" type="text/html" width="700px" height="700px">
 
-etc, etc, etc
-
-```{r, echo=FALSE}
-htmltools::includeHTML("https://github.com/boraer17/image-classifier/blob/master/Image%20Classifier%20Project.html")
-```
+</object>
